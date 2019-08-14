@@ -14,7 +14,7 @@ merged tables back with WSDOT.
 
 Numbers:
 
-* >16 million trips in 2018
+* Nearly 17 million trips in 2018
 * 56 million toll plaza transactions
 * 430,000 accounts with census block group level information
 
@@ -215,5 +215,5 @@ and TRAC, we plan to deliver the following:
 
 1. A Dockerfile to generate the exact R environment we have done our analyses in, together with the R Jupyter Notebook analyses we did to generate all of our R results and figures.
 2. A Dockerfile to generate the exact Python environment we have done our analyses in, together with the Python Jupyter Notebook analyses we did to generate all of our Python results and figures.
-3. hot_2.1 db, our encrypted SQLCipher database containing our ACS and joined trips/travel time/speed/volume data.
+3. `hot-v3.db`, our encrypted SQLCipher database containing our ACS and joined trips/travel time/speed/volume data.
 
