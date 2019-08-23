@@ -53,6 +53,6 @@ presented here are merely averages across a large number of users and trips.
 **Presentation slides**
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTwunZWUaTvOBs4Dl9z9fJgznLEThBjZA4UbknThm1lwwE8NbZesTEQLevfz21AF0IHrje3nJ2kgRfv/embed?start=false&loop=false&delayms=3000" 
-    frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+    frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
 </iframe>
 
